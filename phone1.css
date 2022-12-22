@@ -27,9 +27,14 @@
 }
 
 #message{
-    width: 90%;
-    height: 200px;
-    padding: 6px;
+    width: 75%;
+    height: 180px;
+    
+}
+#submit {
+    
+    width: 100px;
+    
 }
 
 .box{
